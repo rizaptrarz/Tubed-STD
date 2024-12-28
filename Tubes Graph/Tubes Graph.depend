@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1735194745 source:c:\users\asus\downloads\tubes graph\tubes graph\graph.cpp
+	"graph.h"
+
+1735194745 c:\users\asus\downloads\tubes graph\tubes graph\graph.h
+	<iostream>
+
+1735126936 source:c:\users\asus\downloads\tubes graph\tubes graph\main.cpp
+	"graph.h"
+
+1735390516 source:d:\tugas std & dpbo\tubes graph 2\tubes graph 2\tubes graph\tubes graph\main.cpp
+	"graph.h"
+
+1735387263 d:\tugas std & dpbo\tubes graph 2\tubes graph 2\tubes graph\tubes graph\graph.h
+	<iostream>
+
+1735390623 source:d:\tugas std & dpbo\tubes graph 2\tubes graph 2\tubes graph\tubes graph\graph.cpp
+	"graph.h"
+
